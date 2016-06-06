@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: c4e0e47aa98ed7444a9a62ac27f5db14
+timeCreated: 1431857071
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ball_0
+    21300002: ball_1
+    21300004: ball_2
+    21300006: ball_3
+    21300008: ball_4
+    21300010: ball_5
+    21300012: ball_6
+    21300014: ball_7
+    21300016: ball_8
+    21300018: ball_9
+    21300020: ball_10
+    21300022: ball_11
+    21300024: ball_12
+    21300026: ball_13
+    21300028: ball_14
+    21300030: ball_15
+    21300032: ball_16
+    21300034: ball_17
+    21300036: ball_18
+    21300038: ball_19
+    21300040: ball_20
+    21300042: ball_21
+    21300044: ball_22
+    21300046: ball_23
+    21300048: ball_24
+    21300050: ball_25
+    21300052: ball_26
+    21300054: ball_27
+    21300056: ball_28
+    21300058: ball_29
+    21300060: ball_30
+    21300062: ball_31
+    21300064: ball_32
+    21300066: ball_33
+    21300068: ball_34
+    21300070: ball_35
+    21300072: ball_36
+    21300074: ball_37
+    21300076: ball_38
+    21300078: ball_39
+    21300080: ball_40
+    21300082: ball_41
+    21300084: ball_42
+    21300086: ball_43
+    21300088: ball_44
+    21300090: ball_45
+    21300092: ball_46
+    21300094: ball_47
+    21300096: ball_48
+    21300098: ball_49
+    21300100: ball_50
+    21300102: ball_51
+    21300104: ball_52
+    21300106: ball_53
+    21300108: ball_54
+    21300110: ball_55
+    21300112: ball_56
+    21300114: ball_57
+    21300116: ball_58
+    21300118: ball_59
+    21300120: ball_60
+    21300122: ball_61
+    21300124: ball_62
+    21300126: ball_63
+    21300128: ball_64
+    21300130: ball_65
+    21300132: ball_66
+    21300134: ball_67
+    21300136: ball_68
+    21300138: ball_69
+    21300140: ball_70
+    21300142: ball_71
+    21300144: ball_72
+    21300146: ball_73
+    21300148: ball_74
+    21300150: ball_75
+    21300152: ball_76
+    21300154: ball_77
+    21300156: ball_78
+    21300158: ball_79
+    21300160: ball_80
+    21300162: ball_81
+    21300164: ball_82
+    21300166: ball_83
+    21300168: ball_84
+    21300170: ball_85
+    21300172: ball_86
+    21300174: ball_87
+    21300176: ball_88
+    21300178: ball_89
+    21300180: ball_90
+    21300182: ball_91
+    21300184: ball_92
+    21300186: ball_93
+    21300188: ball_94
+    21300190: ball_95
+    21300192: ball_96
+    21300194: ball_97
+    21300196: ball_98
+    21300198: ball_99
+    21300200: ball_100
+    21300202: ball_101
+    21300204: ball_102
+    21300206: ball_103
+    21300208: ball_104
+    21300210: ball_105
+    21300212: ball_106
+    21300214: ball_107
+    21300216: ball_108
+    21300218: ball_109
+    21300220: ball_110
+    21300222: ball_111
+    21300224: ball_112
+    21300226: ball_113
+    21300228: ball_114
+    21300230: ball_115
+    21300232: ball_116
+    21300234: ball_117
+    21300236: ball_118
+    21300238: ball_119
+    21300240: ball_120
+    21300242: ball_121
+    21300244: ball_122
+    21300246: ball_123
+    21300248: ball_124
+    21300250: ball_125
+    21300252: ball_126
+    21300254: ball_127
+    21300256: ball_128
+    21300258: ball_129
+    21300260: ball_130
+    21300262: ball_131
+    21300264: ball_132
+    21300266: ball_133
+    21300268: ball_134
+    21300270: ball_135
+    21300272: ball_136
+    21300274: ball_137
+    21300276: ball_138
+    21300278: ball_139
+    21300280: ball_140
+    21300282: ball_141
+    21300284: ball_142
+    21300286: ball_143
+    21300288: ball_144
+    21300290: ball_145
+    21300292: ball_146
+    21300294: ball_147
+    21300296: ball_148
+    21300298: ball_149
+    21300300: ball_150
+    21300302: ball_151
+    21300304: ball_152
+    21300306: ball_153
+    21300308: ball_154
+    21300310: ball_155
+    21300312: ball_156
+    21300314: ball_157
+    21300316: ball_158
+    21300318: ball_159
+    21300320: ball_160
+    21300322: ball_161
+    21300324: ball_162
+    21300326: ball_163
+    21300328: ball_164
+    21300330: ball_165
+    21300332: ball_166
+    21300334: ball_167
+    21300336: ball_168
+    21300338: ball_169
+    21300340: ball_170
+    21300342: ball_171
+    21300344: ball_172
+    21300346: ball_173
+    21300348: ball_174
+    21300350: ball_175
+    21300352: ball_176
+    21300354: ball_177
+    21300356: ball_178
+    21300358: ball_179
+    21300360: ball_180
+    21300362: ball_181
+    21300364: ball_182
+    21300366: ball_183
+    21300368: ball_184
+    21300370: ball_185
+    21300372: ball_186
+    21300374: ball_187
+    21300376: ball_188
+    21300378: ball_189
+    21300380: ball_190
+    21300382: ball_191
+    21300384: ball_192
+    21300386: ball_193
+    21300388: ball_194
+    21300390: ball_195
+    21300392: ball_196
+    21300394: ball_197
+    21300396: ball_198
+    21300398: ball_199
+    21300400: ball_200
+    21300402: ball_201
+    21300404: ball_202
+    21300406: ball_203
+    21300408: ball_204
+    21300410: ball_205
+    21300412: ball_206
+    21300414: ball_207
+    21300416: ball_208
+    21300418: ball_209
+    21300420: ball_210
+    21300422: ball_211
+    21300424: ball_212
+    21300426: ball_213
+    21300428: ball_214
+    21300430: ball_215
+    21300432: ball_216
+    21300434: ball_217
+    21300436: ball_218
+    21300438: ball_219
+    21300440: ball_220
+    21300442: ball_221
+    21300444: ball_222
+    21300446: ball_223
+    21300448: ball_224
+    21300450: ball_225
+    21300452: ball_226
+    21300454: ball_227
+    21300456: ball_228
+    21300458: ball_229
+    21300460: ball_230
+    21300462: ball_231
+    21300464: ball_232
+    21300466: ball_233
+    21300468: ball_234
+    21300470: ball_235
+    21300472: ball_236
+    21300474: ball_237
+    21300476: ball_238
+    21300478: ball_239
+    21300480: ball_240
+    21300482: ball_241
+    21300484: ball_242
+    21300486: ball_243
+    21300488: ball_244
+    21300490: ball_245
+    21300492: ball_246
+    21300494: ball_247
+    21300496: ball_248
+    21300498: ball_249
+    21300500: ball_250
+    21300502: ball_251
+    21300504: ball_252
+    21300506: ball_253
+    21300508: ball_254
+    21300510: ball_255
+    21300512: ball_256
+    21300514: ball_257
+    21300516: ball_258
+    21300518: ball_259
+    21300520: ball_260
+    21300522: ball_261
+    21300524: ball_262
+    21300526: ball_263
+    21300528: ball_264
+    21300530: ball_265
+    21300532: ball_266
+    21300534: ball_267
+    21300536: ball_268
+    21300538: ball_269
+    21300540: ball_270
+    21300542: ball_271
+    21300544: ball_272
+    21300546: ball_273
+    21300548: ball_274
+    21300550: ball_275
+    21300552: ball_276
+    21300554: ball_277
+    21300556: ball_278
+    21300558: ball_279
+    21300560: ball_280
+    21300562: ball_281
+    21300564: ball_282
+    21300566: ball_283
+    21300568: ball_284
+    21300570: ball_285
+    21300572: ball_286
+    21300574: ball_287
+    21300576: ball_288
+    21300578: ball_289
+    21300580: ball_290
+    21300582: ball_291
+    21300584: ball_292
+    21300586: ball_293
+    21300588: ball_294
+    21300590: ball_295
+    21300592: ball_296
+    21300594: ball_297
+    21300596: ball_298
+    21300598: ball_299
+    21300600: ball_300
+    21300602: ball_301
+    21300604: ball_302
+    21300606: ball_303
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ball_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 66
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 66
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 66
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 66
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 68
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 67
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 66
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 70
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 34
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 34
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 35
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 34
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 36
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 36
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 35
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 38
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 4
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_19
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 4
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 4
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 4
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 6
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
